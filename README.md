@@ -1,13 +1,7 @@
   <h1 align="center">## Hi, I'm Rehman 👋
 
 I'm a Computer Science student interested in programming, cybersecurity, and technology.
-
-- 💻 Currently learning C++, Python, and Object-Oriented Programming.
-- 🔐 Exploring cybersecurity and ethical hacking.
-- 🚀 Improving my problem-solving and programming skills.
-- 📚 Always curious to learn something new.
-
-**My goal:** To become a skilled cybersecurity professional and build useful projects along the way.</h1>
+</h1>
 <h3 align="center">Student at MITS, Gwalior🌟.</h3>
 <br>
 <p align="right"> </p><h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="adam-pw"> 
