@@ -1,8 +1,8 @@
-  <h1 align="center">## Hi, I'm Rehman 👋
+  <h1 align="center">Hi, I'm Rehman 👋
 
 I'm a Computer Science student interested in programming, cybersecurity, and technology.
 </h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Student at Ahuwat College</h3>
 <br>
 <p align="right"> </p><h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="adam-pw"> 
   <p></p>
